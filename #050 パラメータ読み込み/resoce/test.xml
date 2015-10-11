@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<staff category="director" filepath="pict/01.jpg">
+		<name>山田太郎</name>
+		<comment>よろしくおねがいします</comment>
+	</staff>
+	<staff category="designer" filepath="pict/02.jpg">
+		<name>鈴木花子</name>
+		<comment>がんばります</comment>
+	</staff>
+	<staff category="sales" filepath="pict/03.jpg">
+		<name>佐藤一郎</name>
+		<comment>やる気があります</comment>
+	</staff>
+</data>
